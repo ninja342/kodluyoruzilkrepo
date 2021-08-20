@@ -1,6 +1,6 @@
 # Kodluyoruz Ilk Repo
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) egitiminde olusturdugum ilk repo. İcerisinde bir adet README dosyasi, bir adet de index.html barindiriyor.
-
+![github](figures/github.png)
 ## Installation
 ```bash
 git clone https://github.com/ninja342/kodluyoruzilkrepo.git
